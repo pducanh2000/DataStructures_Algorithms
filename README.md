@@ -20,11 +20,11 @@ Its more like the diary of my self-learning about DSA. 🤗
 
 In folders, i will try to add the explanation for clearly understanding. 💪 😘
 
-I like to learn things the most relaxed way, i will spend my free time to update this. 
+I like to learn things in the most relaxed way, i will spend my free time to update this. 
 
 Don't force to learn all the things so quickly. Slowly but surely.
 <div align="center">
-  <img src="images/efforts.jpg" width="300">
+  <img src="images/efforts.jpg" width="250" height="200">
 </div>
 
 
