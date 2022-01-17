@@ -31,26 +31,29 @@ In folders, i will try to add the explanation for clearly understanding. 💪 �
 
 Implementations of various types of data structures
   
-| Name | Link | Some resource |
+| Name | Link | Some resources |
 | :------------ | :----------: | :----------: |
 | Array | "" | "" |
 | Linked list | "" | "" |
+  
 
 <a name=algo> </a>
 ## Algorithms
 
 Some typical and interesting algorithms 
 
-| Name | Link | Some resource |
+| Name | Link | Some resources |
 | :------------ | :----------: | :----------: |
 | "" | "" | "" |
 | "" | "" | "" |
 
-<a name=ds> </a>
-## Problems
 
-  
+<a name=ds> </a>
+## Problems 
+
 | Name | Link | C++ | Python3 |
 | :------------ | :----------: | :----------: | :----------: |
 | Array | "" | ✔️ | ✔️ | 
 | Linked list | "" | ✔️ | ✔️ | 
+
+
