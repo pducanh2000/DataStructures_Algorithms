@@ -1,7 +1,8 @@
-Hello, I will update readme later. 
-# Algorithm 1
-<i> 31 problems (E:17 M:14 H:0) </i>
 
+# Algorithm 1
+<i> <b> 31 problems (E:17 M:14 H:0) </b> </i>
+
+<i> <b> 14 days </b> </i> 
 # Table of problems
 | Index | Level            | Name                   |  My solution           |       Tags|
 | :------------: | :----------: | :----------: |:----------: |:----------: |
